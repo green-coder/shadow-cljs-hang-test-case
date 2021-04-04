@@ -1,0 +1,9 @@
+pom.xml
+*.jar
+config.edn
+/node_modules
+.cpcache
+.shadow-cljs
+.idea
+*.iml
+/public/js
